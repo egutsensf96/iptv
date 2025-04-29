@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.iptv"
+    namespace = "com.egutsens.iptv"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
